@@ -1,2 +1,0 @@
-def registrar_libro():
-    
